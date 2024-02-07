@@ -1,6 +1,6 @@
 {
-  "short_name": "CNP",
-  "name": "Clinical Trials Project",
+  "short_name": "Material Dashboard",
+  "name": "Material Dashboard 2 React",
   "icons": [
     {
       "src": "favicon.png",
